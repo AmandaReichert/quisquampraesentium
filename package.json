@@ -1,0 +1,26 @@
+{
+  "name": "quisquampraesentium",
+  "version": "1.0.0",
+  "description": "TypeScript untility interfaces",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmandaReichert/quisquampraesentium.git"
+  },
+  "keywords": [
+    "ts",
+    "a",
+    "util",
+    "et",
+    "et",
+    "utilities",
+    "est",
+    "iste",
+    "cloneable",
+    "comparable",
+    "qui"
+  ],
+  "author": "JordyGoldner",
+  "license": "MIT",
+  "homepage": "https://github.com/AmandaReichert/quisquampraesentium.git"
+}
